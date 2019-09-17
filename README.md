@@ -1,2 +1,1 @@
-# ML-ex3
-Octave and Python solutions for Machine Learning Coursera from Andrew Ng
+Octave and Python solutions for exercise 3 for Coursera Machine Learning by Andrew Ng. Refer ex3.pdf for more details.
